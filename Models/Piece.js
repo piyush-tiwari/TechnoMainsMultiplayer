@@ -1,3 +1,5 @@
+const Square = require('./Square.js');
+
 class Piece {
     constructor(pos, color) {
         this.id = null;
